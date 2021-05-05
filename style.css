@@ -1,0 +1,22 @@
+
+span{
+    font-size: 8pt;
+}
+body{
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.bg-light{
+    background-color:rgb(192, 182, 182)
+}
+
+.bg-amber{
+    background-color:#edbe32
+}
+
+.mr-7{
+    margin-right: 11rem;
+}
+.ml-7{
+    margin-left: 11rem;
+}
